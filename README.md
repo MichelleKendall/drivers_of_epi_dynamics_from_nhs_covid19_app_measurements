@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/814350771.svg)](https://zenodo.org/doi/10.5281/zenodo.11625146)
+
 # Drivers of epidemic dynamics in real time from daily digital COVID-19 measurements
 
 This code reproduces the findings presented in the paper *Drivers of epidemic dynamics in real time from daily digital COVID-19 measurements* by Kendall et al. 
